@@ -1,6 +1,8 @@
-body, html {
+
+body,
+html {
   width: 100%;
-  height: 100%;
+  height: 100%; 
 }
 
 body {
@@ -41,12 +43,12 @@ header.startup h1 {
 }
 
 .btn-xl {
-  padding: 1rem 2rem;
+  padding: 1rem 2rem; 
 }
 
 .btn-primary {
-  background-color: #00369A;
-  border-color: #00369A; }
+  background-color: #F05F44;
+  border-color: #F05F44; }
 
 .btn-primary:hover {
   background-color: #ee4b08;
