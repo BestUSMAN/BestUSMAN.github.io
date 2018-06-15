@@ -52,12 +52,9 @@ header.startup h1 {
   border-color: #F05F44; 
 }
 
-/*.btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+.btn-primary:hover {
   border-width: 5px;
-  cursor: pointer;
-}*/
+}
 
 #mc_embed_signup form {
     display: block !important;
