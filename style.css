@@ -58,11 +58,8 @@ header.startup h1 {
 }
 
 #mc_embed_signup form {
+    display: block !important;
+    position: relative !important;
     text-align: center !important;
-}
-
-#mc_embed_signup form:hover {
-    border-color: #ee4b08;
-    border-width: 5px;
-    cursor: pointer;
+    padding: 10px 0 10px 3% !important;
 }
