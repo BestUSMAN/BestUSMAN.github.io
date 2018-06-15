@@ -20,18 +20,20 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("img/blue-controller.jpg");
+  background-image: url("img/header.jpg");
   background-size: cover;
   height: 100%;
 }
 
 header.startup hr {
   margin-top: 200px;
-  margin-bottom: 30px; 
+  margin-bottom: 30px;
+  text-align: center; 
 }
 
 header.startup h1 {
   font-size: 2rem; 
+  text-align: center;
 }
 
 .btn {
@@ -47,14 +49,15 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44; 
+}
 
-.btn-primary:hover {
+/*.btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
-}
+}*/
 
 #mc_embed_signup form {
     display: block !important;
