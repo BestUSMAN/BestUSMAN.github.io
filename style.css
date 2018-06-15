@@ -53,7 +53,7 @@ header.startup h1 {
 }
 
 .btn-primary:hover {
-  border-width: 5px;
+  border-width: 5px !important;
 }
 
 #mc_embed_signup form {
